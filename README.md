@@ -37,6 +37,7 @@ Pict 4
 ![](img/webrtc-easy-power-sync-005.jpg)  
 Pict 5  
   
+-----
 ![](img/webrtc-easy-power-sync-006.jpg)  
 Pict 6  
 As shown in the picture 6 above, the folder will be used to exchange the signals for the creation of the connection, you can use other name if you want...  
@@ -46,27 +47,35 @@ Also, you NEED TO ADJUST both scripts to point to the sync folder location, as s
 var syncFolderPath = '/home/userName/Desktop/syncFolder';
 ```
 
+-----
 ![](img/webrtc-easy-power-sync-007.jpg)  
 Pict 7  
   
+-----
 ![](img/webrtc-easy-power-sync-008.jpg)  
 Pict 8  
   
+-----
 ![](img/webrtc-easy-power-sync-009.jpg)  
 Pict 9  
   
+-----
 ![](img/webrtc-easy-power-sync-010.jpg)  
 Pict 10  
   
+-----
 ![](img/webrtc-easy-power-sync-011.jpg)  
 Pict 11  
   
+-----
 ![](img/webrtc-easy-power-sync-012.jpg)  
 Pict 12  
   
+-----
 ![](img/webrtc-easy-power-sync-013.jpg)  
 Pict 13  
   
+-----  
 
 **The First WebRTC Simple Sample Tutorial here**  
 [WebRTC Simple Sample Tutorial 1](https://github.com/t2age/webrtc-easy-power)  
