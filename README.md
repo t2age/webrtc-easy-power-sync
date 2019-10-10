@@ -71,6 +71,10 @@ If you want to run WebRTC on a ARMv6 Raspberry PI Zero, you need to compile Node
 You can use ANY soft, service or protocol to create the sync folder and use it with the sample scripts, they are independent of the the sync mechanism, so there is no need to do any change to use them with different sync tools.  
   
   
+**Syncthing Soft on Raspberry PI Zero**  
+If you want to use the Open Source Syncthing software on the RPIZero, you will need to compile it from source, which is simple and easy, just follow the details on the Syncthing website...  
+  
+  
 **Run both peers on the same PC(device)**  
 If you want to test inside the same device (PC), you DON'T NEED any sync soft running, just need to build the syncFolder somewhere, with the sub folders and the 2 empty files (offer.txt and answer.txt) inside them, and then, run the scripts... because both scripts are on the same machine (device), the signals will be exchanged as if they are being syncronized... so, it will work OK...  
   
