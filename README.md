@@ -53,7 +53,7 @@ Pict 11
   
 
 **The First WebRTC Simple Sample Tutorial here**  
-(WebRTC Simple Sample Tutorial)[]  
+(WebRTC Simple Sample Tutorial 1)[https://github.com/t2age/webrtc-easy-power]  
   
   
 **Run on Raspberry PI Zero ARMv6**  
@@ -61,7 +61,7 @@ If you want to run WebRTC on a ARMv6 Raspberry PI Zero, you need to compile Node
 (Build NodeJS WRTC Module from source)[]  
   
   
-**Sync Software** 
+**Sync Software**  
 You can use ANY soft, service or protocol to create the sync folder and use it with the sample scripts, they are independent of the the sync mechanism, so there is no need to do any change to use them with different sync tools.  
   
   
