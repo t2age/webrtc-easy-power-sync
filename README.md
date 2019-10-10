@@ -5,10 +5,10 @@ WebRTC DataChannel Simple by Sync Folder...
 Pict 1  
  
  
-This is the same WebRTC-Simple Datachannel sample tutorial, but this time using a folder-syncronization software/service to exchange signals (start the link).  
+This is the same WebRTC-Simple Datachannel sample tutorial, but this time using a folder-syncronization software/service to exchange signals (and start the connection).  
   
 Since this tutorial sample uses the same Scripts as the original WebRTC tutorial sample (link below), looking at it first will help to understand the current version more easilly...
-(WebRTC Simple sample Here)[]
+[WebRTC Simple Sample 1 Here](https://github.com/t2age/webrtc-easy-power)
   
 A sync-folder is used to exchange the text signals, so, there is NO NEED of server script to perform this task!  
   
