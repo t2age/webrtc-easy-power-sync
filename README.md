@@ -35,7 +35,13 @@ Pict 5
   
 ![](img/webrtc-easy-power-sync-006.jpg)  
 Pict 6  
-  
+As shown in the picture 6 above, the folder will be used to exchange the signals for the creation of the connection, you can use other name if you want...  
+Also, you NEED TO ADJUST both scripts to point to the sync folder location, as shown of the fragment of the actual code below:  
+```
+// Change the following variable to the path of the sync folder
+var syncFolderPath = '/home/userName/Desktop/syncFolder';
+```
+
 ![](img/webrtc-easy-power-sync-007.jpg)  
 Pict 7  
   
