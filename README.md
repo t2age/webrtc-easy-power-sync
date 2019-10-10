@@ -51,6 +51,12 @@ Pict 10
 ![](img/webrtc-easy-power-sync-011.jpg)  
 Pict 11  
   
+![](img/webrtc-easy-power-sync-012.jpg)  
+Pict 12  
+  
+![](img/webrtc-easy-power-sync-013.jpg)  
+Pict 13  
+  
 
 **The First WebRTC Simple Sample Tutorial here**  
 [WebRTC Simple Sample Tutorial 1](https://github.com/t2age/webrtc-easy-power)  
