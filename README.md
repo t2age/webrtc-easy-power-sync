@@ -21,15 +21,19 @@ The scripts also works on a single device WITHOUT any sync software running, you
   
 
   
+-----
 ![](img/webrtc-easy-power-sync-002.jpg)  
 Pict 2  
   
+-----
 ![](img/webrtc-easy-power-sync-003.jpg)  
 Pict 3  
   
+-----
 ![](img/webrtc-easy-power-sync-004.jpg)  
 Pict 4  
   
+-----
 ![](img/webrtc-easy-power-sync-005.jpg)  
 Pict 5  
   
