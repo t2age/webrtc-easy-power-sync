@@ -53,12 +53,12 @@ Pict 11
   
 
 **The First WebRTC Simple Sample Tutorial here**  
-(WebRTC Simple Sample Tutorial 1)[https://github.com/t2age/webrtc-easy-power]  
+[WebRTC Simple Sample Tutorial 1](https://github.com/t2age/webrtc-easy-power)  
   
   
 **Run on Raspberry PI Zero ARMv6**  
 If you want to run WebRTC on a ARMv6 Raspberry PI Zero, you need to compile NodeJS-WRTC from source code, here is the tutorial showing how to:  
-(Build NodeJS WRTC Module from source)[]  
+[Build NodeJS WRTC Module from source](https://github.com/t2age/webrtc-armv6)  
   
   
 **Sync Software**  
